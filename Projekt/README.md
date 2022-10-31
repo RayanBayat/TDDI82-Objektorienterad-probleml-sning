@@ -1,0 +1,4 @@
+On linux OS
+
+$ make
+
